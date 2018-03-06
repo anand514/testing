@@ -11,3 +11,8 @@
   ### HostName github.com
   ### User git
   ### IdentityFile ~/.ssh/id_rsa_anand514 
+  
+  
+  
+  ### to add agent to the system
+    eval `ssh-agent -s`
